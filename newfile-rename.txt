@@ -2,4 +2,4 @@ newfile 更新
 branchの作成
 
 
-new-featureブランチで変更
+no-fast-forwardで変更

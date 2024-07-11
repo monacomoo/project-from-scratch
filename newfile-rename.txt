@@ -1,2 +1,5 @@
 newfile 更新
 branchの作成
+
+
+new-featureブランチで変更

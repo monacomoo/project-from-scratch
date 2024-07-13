@@ -1,3 +1,3 @@
 新しいファイルを作成
 conflictブランチで変更（コンフリクト発生）
-github上で更新
+conflict-remote上で更新（コンフリクト発生）
